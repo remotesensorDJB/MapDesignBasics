@@ -37,6 +37,7 @@
  - Presenting information about the people that live in a city/state/country?
  - Showing the distribution of some phenomenon over Earth's surface? 
 - Each of these purposes would require different data, symbology, visual presentation, etc. 
+---
 ### Audience
 - Who is the primary viewership of your map?
  - The general public?
