@@ -1,4 +1,4 @@
-theme : night
+theme : white
 background : images/Sarlon_Topography-433919_grey.jpg
 transition : fade
-logo : http://ulcgis.org/index_files/image002.jpg 
+logo : images/ulcgis.png
