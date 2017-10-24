@@ -17,8 +17,8 @@
  > A *good* map delivers its information to the viewer in a clear and simple manner, in effort to convince, to present a case, or to tell a story. 
 ---
 ### What's in a map?
-- Key features of a *good* map:
- 1. **Visual Contrast:** The data are the stars of the show
+- [Key features of a *good* map](http://www.esri.com/news/arcuser/0112/make-maps-people-want-to-look-at.html):
+ 1. **Visual Contrast:** Data is the star of the show
  2. **Legibility:** Data are seen *and understood*. Selection of appropriate symbols/sizes is key.
  3. **[Figure-Ground Organization](https://blogs.esri.com/esri/arcgis/2011/02/15/graphic-design-principles-for-mapping-figure-ground-organization/):** Separation of main figure from background. 
  4. **Hierarchical Organization:** Within data layers themselves, and within map elements (title, north arrow, etc.)
