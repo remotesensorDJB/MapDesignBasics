@@ -5,7 +5,7 @@
 ---
 ### The Plan
 - What makes a good map?
-- Purpose of maps
+- Purpose and Audience
 - Thinking about design
 - Map Elements
 - The good, the bad, and the ugly...
@@ -22,4 +22,26 @@
  2. **Legibility:** Data are seen *and understood*. Selection of appropriate symbols/sizes is key.
  3. **[Figure-Ground Organization](https://blogs.esri.com/esri/arcgis/2011/02/15/graphic-design-principles-for-mapping-figure-ground-organization/):** Separation of main figure from background. 
  4. **Hierarchical Organization:** Within data layers themselves, and within map elements (title, north arrow, etc.)
- 5. **Visual Balance:** Effective use of white space and positioning of visual elements within a layout 
+ 5. **Visual Balance:** Effective use of white space and positioning of visual elements within a layout .
+ ---
+### What and for Whom?
+- Two most important questions you can ask when designing a map: 
+ - What is the map's purpose?
+ - Who is the audience? 
+- The answers to these questions should shape the entire design process.
+---
+### Purpose
+- Is your map...
+ - Trying to help readers navigate roadways? 
+ - Helping readers visualize the terrain in an area of interest?
+ - Presenting information about the people that live in a city/state/country?
+ - Showing the distribution of some phenomenon over Earth's surface? 
+- Each of these purposes would require different data, symbology, visual presentation, etc. 
+### Audience
+- Who is the primary viewership of your map?
+ - The general public?
+ - School children? 
+ - Other geographers? 
+ - The visually impaired?
+- The design decisions you make should be based on assumptions about your intended audience.
+- Example: Geographers will be familiar with interpreting census data in a standard deviation classification, but school children may not.  
