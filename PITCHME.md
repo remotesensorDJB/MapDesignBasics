@@ -97,7 +97,7 @@
 ### Designing Better Maps
 > "It's all about matching perceptual dimensions with data dimensions" 
 > - Cynthia Brewer
-#####https://www.wired.com/2014/10/cindy-brewer-map-design/ 
+##### https://www.wired.com/2014/10/cindy-brewer-map-design/ 
 --- 
 ### Adventures in Mapping
 ###### Blog by ESRI Cartographer John Nelson
