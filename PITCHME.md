@@ -71,13 +71,13 @@
 ![Good Map #1](images/goodmap.jpg)
 ---
 ### Good Maps
-![Good Map #2](images/goodmap2.png)
+![Good Map #2](images/goodmap2.jpg)
 ---
 ### Good Maps
-![Good Map #3](images/goodmap4.png)
+![Good Map #3](images/goodmap4.jpg)
 ---
 ### Good Maps
-![Good Map #4](images/goodmap3.png)
+![Good Map #4](images/goodmap3.jpg)
 ---
 ### Good Maps
 ![Good Map #5](images/goodmap5.gif)
