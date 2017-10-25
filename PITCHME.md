@@ -80,13 +80,13 @@
 ![Good Map #4](images/goodmap3.jpg)
 ---
 ### Good Maps
-![Good Map #5](images/goodmap5.gif)
+![Good Map #5](images/goodmap5.jpg)
 ---
 ### Bad Maps
 ![Bad Map #1](images/badmap2.png)
 ---
 ### Bad Maps
-![Bad Map #2](images/badmap3.png)
+![Bad Map #2](images/badmap3.jpg)
 ---
 ### Bad Maps
 ![Bad Map #3](images/badmap4.jpg)
@@ -104,7 +104,7 @@
 ###### https://adventuresinmapping.com/
 ---
 ### Closing Thoughts
-###### "Principles of Cartographic Design"
+###### ["Principles of Cartographic Design"](http://www.neercartography.com/principles-of-cartographic-design/)
 ###### of the British Cartographic Society
 1. Concept before compliation
 2. Hierarchy with harmony
