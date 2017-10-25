@@ -12,8 +12,8 @@
 ---
 ### What's in a map?
  > A map is a symbolic representation of selected characteristics of a place, usually drawn on a flat surface. Maps present information about the world in a simple, visual way.
- > - [National Geographic Society](https://www.nationalgeographic.org/encyclopedia/map/)
- ---
+ > - ###### [National Geographic Society](https://www.nationalgeographic.org/encyclopedia/map/)
+---
 ### What's in a map?
  > A *good* map delivers its information to the viewer in a clear and intuitive manner, in effort to convince, to present a case, or to tell a story. 
 ---
