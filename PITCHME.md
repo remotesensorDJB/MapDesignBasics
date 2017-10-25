@@ -11,8 +11,9 @@
 - The good, the bad, and the ugly...
 ---
 ### What's in a map?
- >A map is a symbolic representation of selected characteristics of a place, usually drawn on a flat surface. Maps present information about the world in a simple, visual way.
----
+ > A map is a symbolic representation of selected characteristics of a place, usually drawn on a flat surface. Maps present information about the world in a simple, visual way.
+ > - [National Geographic Society](https://www.nationalgeographic.org/encyclopedia/map/)
+ ---
 ### What's in a map?
  > A *good* map delivers its information to the viewer in a clear and intuitive manner, in effort to convince, to present a case, or to tell a story. 
 ---
@@ -37,6 +38,7 @@
  - Presenting information about the people that live in a city/state/country?
  - Showing the distribution of some phenomenon over Earth's surface? 
 - Each of these purposes would require different data, symbology, visual presentation, etc. 
+- A thesis statement for your map.
 ---
 ### Audience
 - Who is the primary viewership of your map?
@@ -55,12 +57,12 @@
  - Environment/Philosophy of use? Field map, wall map, office use |
 ---
 ### The Design Process
-1. Define purpose and audience 
-2. Select map scale
-3. Select medium, PoU, costs??
-4. Abstraction/simplification of data
- - Select, generalize, classify, symbolize
-5. Layout design 
+1. Define purpose and audience |
+2. Select map scale |
+3. Select medium, PoU, costs?? |
+4. Abstraction/simplification of data |
+ - Select, generalize, classify, symbolize |
+5. Design the layout |
 ---
 ### Designing Better Maps
 > "It's all about matching perceptual dimensions with data dimensions" 
