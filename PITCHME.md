@@ -57,12 +57,12 @@
  - Environment/Philosophy of use? Field map, wall map, office use |
 ---
 ### The Design Process
-1. Define purpose and audience |
-2. Select map scale |
-3. Select medium, PoU, costs?? |
-4. Abstraction/simplification of data |
- - Select, generalize, classify, symbolize |
-5. Design the layout |
+1. Define purpose and audience 
+2. Select map scale 
+3. Select medium, PoU, costs?? 
+4. Abstraction/simplification of data 
+ - Select, generalize, classify, symbolize 
+5. Design the layout 
 ---
 ### Map Layout Elements
 ![Map Elements Image](images/mapelements.jpg)
