@@ -131,7 +131,7 @@ A reader's perception of the map is affected by its...
 
 +++
 @snap[west span-40]
-![rule of thirds](images/thirds.png)
+![width=400](images/thirds.png)
 @snapend
 
 @snap[east span-40]
