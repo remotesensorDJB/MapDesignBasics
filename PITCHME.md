@@ -104,6 +104,7 @@ Example: Geographers will be familiar with interpreting census data in a standar
 ---
 ### Visual Hierarchy
 Examine this map...
+
 ![hierarchy 1](images/hierarchy1.jpg)
 +++
 ### Visual Hierarchy
