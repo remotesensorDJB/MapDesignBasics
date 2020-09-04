@@ -162,7 +162,7 @@ A reader's perception of the map is affected by its...
 
 The little things make a *big* difference
 
-![width=400](images(bad_1.png)
+![width=400](images/bad_1.png)
 +++
 ### Attention to Detail
 
