@@ -121,8 +121,22 @@ A reader's perception of the map is affected by its...
 - Negative space |
 - Symbols |
 +++
+### Visual Center
 
+![visual center](images/v_center.png)
++++
+### Rule of thirds
 
+![rule of thirds](images/thirds.png)
++++
+### Alignment
+
+![alignment](images/align.png)
++++
+### Balance
+
+![balance](images/balance.png)
++++
 ### Good Maps
 ![Good Map #1](images/goodmap.jpg)
 ---
