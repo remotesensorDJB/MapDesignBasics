@@ -122,7 +122,7 @@ A reader's perception of the map is affected by its...
 - Symbols |
 +++
 @snap[west span-40]
-![visual center](images/v_center.png)
+![width=400](images/v_center.png)
 @snapend
 
 @snap[east span-40]
@@ -141,7 +141,7 @@ A reader's perception of the map is affected by its...
 
 +++
 @snap[west span-40]
-![alignment](images/align.png)
+![width=400](images/align.png)
 @snapend
 
 @snap[east span-40]
