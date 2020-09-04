@@ -121,21 +121,42 @@ A reader's perception of the map is affected by its...
 - Negative space |
 - Symbols |
 +++
-### Visual Center
-
+@snap[west span-40]
 ![visual center](images/v_center.png)
-+++
-### Rule of thirds
+@snapend
 
+@snap[east span-40]
+@box[bg-blue text-white waved box-padding](Visual Center# - The visual center of a page is about 5% higher than the geometric center<br/>Maps centered on the geometric center may feel a little “heavy”)
+@snapend
+
++++
+@snap[west span-40]
 ![rule of thirds](images/thirds.png)
-+++
-### Alignment
+@snapend
 
+@snap[east span-40]
+@box[bg-blue text-white waved box-padding](Rule of thirds# Place important items at the intersections of lines dividing the page into thirds<br/>Fundamental rule of photography...maps too)
+@snapend
+
+
++++
+@snap[west span-40]
 ![alignment](images/align.png)
-+++
-### Balance
+@snapend
 
+@snap[east span-40]
+@box[bg-blue text-white waved box-padding](Alignment# Place elements in ordered columns rather than a haphazard arrangement<br/>Align edges of boxes and frames exactly using guides and snapping)
+@snapend
+
++++
+@snap[north span-80]
 ![balance](images/balance.jpg)
+@snapend
+
+@snap[south span-80]
+@box[bg-blue text-white waved box-padding](Balance# Balance elements to avoid crowded or open areas<br/>Use negative space as a design tool to separate or combine elements more subtly than neatlines)
+@snapend
+
 +++
 ### Good Maps
 ![Good Map #1](images/goodmap.jpg)
