@@ -27,7 +27,7 @@
 ### [Key features of a *good* map](http://www.esri.com/news/arcuser/0112/make-maps-people-want-to-look-at.html)
 
 **[Figure-Ground Organization](https://blogs.esri.com/esri/arcgis/2011/02/15/graphic-design-principles-for-mapping-figure-ground-organization/):** Separation of main figure from background. 
-++
++++
 ### [Key features of a *good* map](http://www.esri.com/news/arcuser/0112/make-maps-people-want-to-look-at.html)
 
 **Hierarchical Organization:** Within data layers themselves, and within map elements (title, north arrow, etc.)
@@ -43,13 +43,16 @@
 - The answers to these questions should shape the entire design process.
 +++
 ### Purpose
-- Is your map...
- - Trying to help readers navigate roadways? 
- - Helping readers visualize terrain and topography?
- - Presenting information about the demographics in a city/state/country?
- - Showing the distribution of some phenomenon over Earth's surface? 
-- Each of these purposes requires unique data, symbology, visual presentation, etc. 
-- A thesis statement for your map.
+- Is your map...:
+ - Trying to help readers navigate roadways? |
+ - Helping readers visualize terrain and topography? |
+ - Presenting information about the demographics in a city/state/country? |
+ - Showing the distribution of some phenomenon over Earth's surface? |
++++
+### Purpose
+Each of these purposes requires unique data, symbology, visual presentation, etc. 
+
+**A thesis statement for your map.**
 +++
 ### Audience
 - Who is the primary viewership of your map?
