@@ -126,7 +126,7 @@ A reader's perception of the map is affected by its...
 @snapend
 
 @snap[east span-40]
-@box[bg-blue text-white waved box-padding](Visual Center# - The visual center of a page is about 5% higher than the geometric center<br/>Maps centered on the geometric center may feel a little “heavy”)
+@box[bg-blue text-white waved box-padding](Visual Center# The visual center of a page is about 5% higher than the geometric center<br/>Maps centered on the geometric center may feel a little “heavy”)
 @snapend
 
 +++
