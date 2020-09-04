@@ -158,6 +158,19 @@ A reader's perception of the map is affected by its...
 @snapend
 
 +++
+### Attention to Detail
+
+The little things make a *big* difference
+
+![width=400](images(bad_1.png)
++++
+### Attention to Detail
+
+Better...
+
+![width=500](images/good_1.png)
+
++++
 ### Good Maps
 ![Good Map #1](images/goodmap.jpg)
 ---
