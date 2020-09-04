@@ -151,7 +151,7 @@ A reader's perception of the map is affected by its...
 ![Bad Map #4](images/badmap1.png)
 ---
 ### Designing Better Maps
-> @quote["It's all about matching perceptual dimensions with data dimensions"]([Cynthia Brewer](https://www.wired.com/2014/10/cindy-brewer-map-design/))
+@quote["It's all about matching perceptual dimensions with data dimensions"]([Cynthia Brewer](https://www.wired.com/2014/10/cindy-brewer-map-design/))
 --- 
 ### Some folks to follow
 
