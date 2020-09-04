@@ -158,11 +158,13 @@ A reader's perception of the map is affected by its...
 @snapend
 
 +++
+@snap[north span-80]
 ### Attention to Detail
 
 The little things make a *big* difference
 
 ![width=400](images/bad_1.png)
+@snapend
 +++
 ### Attention to Detail
 
