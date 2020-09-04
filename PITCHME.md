@@ -135,7 +135,7 @@ A reader's perception of the map is affected by its...
 +++
 ### Balance
 
-![balance](images/balance.png)
+![balance](images/balance.jpg)
 +++
 ### Good Maps
 ![Good Map #1](images/goodmap.jpg)
