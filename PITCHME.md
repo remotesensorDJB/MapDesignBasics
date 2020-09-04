@@ -43,7 +43,7 @@
 - The answers to these questions should shape the entire design process.
 +++
 ### Purpose
-- Is your map...:
+- Is your map...
  - Trying to help readers navigate roadways? |
  - Helping readers visualize terrain and topography? |
  - Presenting information about the demographics in a city/state/country? |
@@ -72,7 +72,6 @@ Example: Geographers will be familiar with interpreting census data in a standar
  - Medium? Paper, PDF, Web? Device?|
  - Appropriate scale? Detail vs study area extent |
  - Viewing distance? Wall map...6-9FT, Figure in paper...2FT |
- - 
 +++
 @snap[north span-80](### Design for the medium) 
 @snapend
