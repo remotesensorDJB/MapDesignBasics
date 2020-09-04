@@ -91,8 +91,13 @@ Example: Geographers will be familiar with interpreting census data in a standar
 2. Select map scale 
 3. Select medium, PoU, costs?? 
 4. Abstraction/simplification of data 
- - Select, generalize, classify, symbolize 
+ - Select, generalize, classify, symbolize, review, edit 
 5. Design the layout 
++++
+### Design Process
+
+![process](images/process.png)
+
 ---
 ### Map Layout Elements
 ![Map Elements Image](images/mapelements.jpg)
@@ -100,6 +105,23 @@ Example: Geographers will be familiar with interpreting census data in a standar
 ### Visual Hierarchy
 Examine this map...
 ![hierarchy 1](images/hierarchy1.jpg)
++++
+### Visual Hierarchy
+- What was the map about? |
+- What did you notice first? |
+- How did your eye move around the map? |
+- How was the path achieved? |	
++++
+### Visual Hierarchy
+
+A reader's perception of the map is affected by its...
+- Balance |
+- Arrangement |
+- Negative space |
+- Symbols |
++++
+
+
 ### Good Maps
 ![Good Map #1](images/goodmap.jpg)
 ---
