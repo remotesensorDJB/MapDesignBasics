@@ -69,7 +69,7 @@ Example: Geographers will be familiar with interpreting census data in a standar
 ---
 ### Thinking about design
 - Beyond purpose and audience what are the key considerations?
- - Medium? Paper, PDF, Web? Device?|
+ - Medium? > Paper, PDF, Web? Device?|
  - Appropriate scale? Detail vs study area extent |
  - Viewing distance? Wall map...6-9FT, Figure in paper...2FT |
 +++
@@ -83,13 +83,12 @@ Example: Geographers will be familiar with interpreting census data in a standar
 @snap[east span-40]
 @box[bg-blue text-white waved box-padding](Web maps# Interactive<br/>Viewing size may vary by device screen<br/>Poor light/sunlight on mobile devices<br/>Short viewer attention span<br/>Competes for attention<br/>Should do one thing really well)
 @snapend
-+++
 
 ---
 ### The Design Process
 1. Define purpose and audience 
 2. Select map scale 
-3. Select medium, PoU, costs?? 
+3. Select medium
 4. Abstraction/simplification of data 
  - Select, generalize, classify, symbolize, review, edit 
 5. Design the layout 
@@ -99,19 +98,28 @@ Example: Geographers will be familiar with interpreting census data in a standar
 ![process](images/process.png)
 
 ---
+### Cartographic Generalization
+
+![Generalize](images/general.jpg)
+
+[Project Linework](http://www.projectlinework.org/)
+
 ### Map Layout Elements
 ![Map Elements Image](images/mapelements.jpg)
----
++++
 ### Visual Hierarchy
 Examine this map...
 
 ![hierarchy 1](images/hierarchy1.jpg)
+
 +++
 ### Visual Hierarchy
+
 - What was the map about? |
 - What did you notice first? |
 - How did your eye move around the map? |
 - How was the path achieved? |	
+
 +++
 ### Visual Hierarchy
 
@@ -120,6 +128,7 @@ A reader's perception of the map is affected by its...
 - Arrangement |
 - Negative space |
 - Symbols |
+
 +++
 @snap[west span-40]
 ![width=400](images/v_center.png)
@@ -165,6 +174,7 @@ The little things make a *big* difference
 
 ![width=400](images/bad_1.png)
 @snapend
+
 +++
 ### Attention to Detail
 
@@ -172,31 +182,31 @@ Better...
 
 ![width=500](images/good_1.png)
 
-+++
+---
 ### Good Maps
 ![Good Map #1](images/goodmap.jpg)
----
++++
 ### Good Maps
 ![Good Map #2](images/goodmap2.jpg)
----
++++
 ### Good Maps
 ![Good Map #3](images/goodmap4.jpg)
----
++++
 ### Good Maps
 ![Good Map #4](images/goodmap3.jpg)
----
++++
 ### Good Maps
 ![Good Map #5](images/goodmap5.jpg)
----
++++
 ### Bad Maps
 ![Bad Map #1](images/badmap2.png)
----
++++
 ### Bad Maps
 ![Bad Map #2](images/badmap3.jpg)
----
++++
 ### Bad Maps
 ![Bad Map #3](images/badmap4.jpg)
----
++++
 ### Bad Maps
 ![Bad Map #4](images/badmap1.png)
 ---
