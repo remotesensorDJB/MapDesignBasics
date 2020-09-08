@@ -104,8 +104,10 @@ Example: Geographers will be familiar with interpreting census data in a standar
 
 [Project Linework](http://www.projectlinework.org/)
 
++++
 ### Map Layout Elements
 ![Map Elements Image](images/mapelements.jpg)
+
 +++
 ### Visual Hierarchy
 Examine this map...
