@@ -26,7 +26,7 @@
 +++
 ### [Key features of a *good* map](http://www.esri.com/news/arcuser/0112/make-maps-people-want-to-look-at.html)
 
-**[Figure-Ground Organization](https://blogs.esri.com/esri/arcgis/2011/02/15/graphic-design-principles-for-mapping-figure-ground-organization/):** Separation of main figure from background. 
+**[Figure-Ground Organization](https://blogs.esri.com/esri/arcgis/2011/02/15/graphic-design-principles-for-mapping-figure-ground-organization/):** Separation of main figure from background. Adds dimensionality to your map. Consider the [whitewash effect](https://www.esri.com/arcgis-blog/products/product/mapping/figure-ground-whitewash/)
 +++
 ### [Key features of a *good* map](http://www.esri.com/news/arcuser/0112/make-maps-people-want-to-look-at.html)
 
